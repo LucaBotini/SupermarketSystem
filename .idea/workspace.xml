@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ced96f4-ac29-4d94-b691-19d510109aad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SupermarketSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superMarket/domain/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superMarket/domain/ReIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superMarket/test/SystemSuperMarket.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ced96f4-ac29-4d94-b691-19d510109aad" name="Changes" comment="adding supermarket with functions from: ADD/REMOVE/VIEW" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +45,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Botini/IdeaProjects/SupermarketSystem/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Botini/IdeaProjects/SupermarketSystem/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager" selected="Application.SystemSuperMarket">
@@ -102,6 +94,30 @@
       <option name="presentableId" value="Default" />
       <updated>1731498120970</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding supermarket with functions from: ADD/REMOVE/VIEW">
+      <option name="closed" value="true" />
+      <created>1731515175380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731515175380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding supermarket with functions from: ADD/REMOVE/VIEW" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding supermarket with functions from: ADD/REMOVE/VIEW" />
   </component>
 </project>
